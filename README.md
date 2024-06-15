@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpahm&show_icons=true&theme=default)
-[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpahm)](https://github.com/luanpahm/github-readme-stats)
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpahm)](https://github.com/luanpahm)
