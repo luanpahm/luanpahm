@@ -1,5 +1,3 @@
-<h1 align="center"> fmt.Println("Hi there 👋")</h1>
-
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Luan! Software Engineer with AI
 </h3> 
