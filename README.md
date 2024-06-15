@@ -13,8 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut)](https://github.com/luanpahm)
 
 <a href="(https://github.com/luanpahm)">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=luanpahm&include_all_commits=true&show_icons=true&theme=transparent)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=luanpahm&include_all_commits=true&show_icons=true&theme=transparent)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&card_width=320)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut&card_width=320)" />
 </a>
