@@ -1,7 +1,7 @@
 <p align="center"> 
-<a href="(https://github.com/luanpahm)">
-  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Luan! Software Engineer with AI
-</a>
+  <a href="(https://github.com/luanpahm)">
+    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Luan! Software Engineer with AI
+  </a>
 </p>
    
 </h3> 
@@ -32,8 +32,8 @@
 
 ### 🧰 Languages and Tools
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://github.com/luanpahm">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,argocd,azure,django,git,docker,elasticsearch,fastapi,flask,gcp,gemini,git,go,grafana,helm,kafka,kubernetes,linux,mongodb,mysql,postgres,postman,prometheus,redis,vim" />
   </a>
 </p>
 
