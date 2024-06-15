@@ -33,7 +33,7 @@
 ### 🧰 Languages and Tools
 <p align="center">
   <a href="https://github.com/luanpahm">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,argocd,azure,django,git,docker,elasticsearch,fastapi,flask,gcp,gemini,git,go,grafana,helm,kafka,kubernetes,linux,mongodb,mysql,postgres,postman,prometheus,redis,vim" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,argocd,azure,django,git,docker,elasticsearch,fastapi,flask,gcp,gemini,git,go,grafana,helm,kafka,kubernetes,linux,mongodb,mysql,postgres,postman,prometheus,redis,vim&titles=true" />
   </a>
 </p>
 
