@@ -1,6 +1,16 @@
-## Hi there 👋
-**`Software Engineer/DevOps Engineer`**
-- 🔭 I’m currently working on Viettel Group
+<h1 align="center"> fmt.Println("Hi there 👋")</h1>
+
+<h3 align="center"> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Luan! Software Engineer with AI
+</h3> 
+
+</a>
+<a href="(https://github.com/luanpahm)">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanpahm&theme=transparent" />
+</a>
+</a>
+
+- 🔭 I’m currently working on VinFast R&D
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -8,6 +18,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+---
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -40,10 +51,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
 
-<a href="(https://github.com/luanpahm)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanpahm&include_all_commits=true&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut" />
-</a>
+### 📊 Stats
+<p align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanpahm&include_all_commits=true&show_icons=true&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut" />
+</p>
