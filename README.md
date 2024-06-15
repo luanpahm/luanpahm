@@ -15,3 +15,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpahm&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut" />
 </a>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/luanpahm/langs)](https://githubtrends.io)
