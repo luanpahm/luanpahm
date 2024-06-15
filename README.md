@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -20,6 +20,7 @@
 <br />
 
 #
+---
 <a href="(https://github.com/luanpahm)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanpahm&include_all_commits=true&show_icons=true&theme=transparent" />
 </a>
